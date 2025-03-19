@@ -3,15 +3,15 @@
 > **更新：2025/03/19**   
 > **作者：chinese-chatgpt**       
 
-**无需翻墙，轻松使用ChatGPT**  2025年最新【**ChatGPT中文版**】国内使用指南，**无限使用 GPT-4、4o和o1模型**
+**无需翻墙，轻松使用ChatGPT**  2025年最新 [**ChatGPT中文版**](https://chat.yixiaai.com) 国内使用指南，**无限使用 GPT-4、4o和o1模型**
 
-本指南将详细介绍如何在国内使用 **ChatGPT 中文版**，助你快速用上ChatGPT~
+本指南将详细介绍如何在国内使用 [**ChatGPT 中文版**](https://chat.lanjing.ai)，助你快速用上ChatGPT~
 
 ---
 
 ## 1. 什么是 ChatGPT 中文版？
 
-**ChatGPT中文版**是 OpenAI 的 ChatGPT模型的本地化中文版本，专为国内用户设计，提供流畅和精准对话能力。
+[**ChatGPT中文版**](https://chat.yixiaai.com) 是 OpenAI 的 ChatGPT模型的本地化中文版本，专为国内用户设计，提供流畅和精准对话能力。
 
 - **增强的中文支持**：提供流畅的中文交流，适用于学习、办公及日常使用。
 - **便捷的无翻墙访问**：通过国内镜像网站即可快速访问。
