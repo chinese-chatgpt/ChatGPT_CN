@@ -1,7 +1,7 @@
 # ChatGPT 中文版：2025年最新国内使用指南~（支持 GPT-4、4o 和 o1，无需翻墙）【2025年最新更新】
 
 > **更新：2025/03/20**   
-> **作者：chinese-chatgpt**       
+> **作者：chinese-chatgpt**      
 
 **无需翻墙，轻松使用ChatGPT**  2025年最新 [**ChatGPT中文版**](https://chat.yixiaai.com) 国内使用指南，**无限使用 GPT-4、4o和o1模型**
 
